@@ -1,0 +1,11 @@
+﻿  UT1.2.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.2\PR1.2\Matrix.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.2\PR1.2\Matrix.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.2\PR1.2\Matrix.cpp(37,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.2\PR1.2\Matrix.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.2\PR1.2\Matrix.cpp(47,21): warning C4018: '<': signed/unsigned mismatch
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.2\PR1.2\Matrix.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.2\PR1.2\Matrix.cpp(71,21): warning C4018: '<': signed/unsigned mismatch
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.2\PR1.2\Matrix.cpp(86,20): warning C4018: '<': signed/unsigned mismatch
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.2\PR1.2\Matrix.cpp(88,21): warning C4018: '<': signed/unsigned mismatch
+  UT1.2.vcxproj -> D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.2\Debug\UT1.2.dll
